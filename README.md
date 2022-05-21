@@ -1,9 +1,9 @@
 # visualizations
 will be adding tableau public link along with the datasets used. will aslo be sharing insights observed from the visualizations
 
-walmart retail analysis
-
 tablaeu public link: https://public.tableau.com/views/walmartretailanalysis/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+walmart retail analysis
 
 Insights i am looking for:
 1. the trend of state-wise profit
