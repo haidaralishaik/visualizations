@@ -1,0 +1,15 @@
+ifs
+if
+find
+replace
+search
+isnumber
+or
+and
+text to column
+
+insights required:
+top job roles per province in 2021
+number of remote jobs
+experience based roles
+jobs that most companies offer
